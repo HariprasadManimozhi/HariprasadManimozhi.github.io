@@ -8,6 +8,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+<iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=00c3c760-39b6-4833-ade6-7226e4a1d19d&autoAuth=true&ctid=bc49a06d-f3a5-400a-81e3-9a9bd21b2c71&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWluZGlhLXdlc3QtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>
+
+https://app.powerbi.com/reportEmbed?reportId=00c3c760-39b6-4833-ade6-7226e4a1d19d&autoAuth=true&ctid=bc49a06d-f3a5-400a-81e3-9a9bd21b2c71&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWluZGlhLXdlc3QtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D
+
 ```markdown
 Syntax highlighted code block
 
