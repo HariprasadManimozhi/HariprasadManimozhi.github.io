@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Coolest Blog</title><link>https://HariprasadManimozhi.github.io/</link><description>The Coolest Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 12 Dec 2020 11:04:48 +0530</lastBuildDate><atom:link href="https://HariprasadManimozhi.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://HariprasadManimozhi.github.io/posts/my-first-post/</link><pubDate>Sat, 12 Dec 2020 11:04:48 +0530</pubDate><guid>https://HariprasadManimozhi.github.io/posts/my-first-post/</guid><description>&lt;p>This is my first post in my exciting blogging journey!&lt;/p>
+&lt;h1 id="my-main-heading">My main heading&lt;/h1>
+&lt;p>It&amp;rsquo;s so &lt;em>exciting&lt;/em> writing my first &lt;strong>hugo&lt;/strong> blog post.&lt;/p>
+&lt;h2 id="a-smaller-heading">A smaller heading&lt;/h2>
+&lt;ul>
+&lt;li>Wow these bullets are way easier than HTML bullets!&lt;/li>
+&lt;li>Enough writing, let&amp;rsquo;s see what it looks like!&lt;/li>
+&lt;/ul></description></item><item><title>Featured Image</title><link>https://HariprasadManimozhi.github.io/posts/featured-image/</link><pubDate>Thu, 27 Feb 2020 16:49:05 +0000</pubDate><guid>https://HariprasadManimozhi.github.io/posts/featured-image/</guid><description>&lt;p>&lt;img src="https://HariprasadManimozhi.github.io/forest.png" alt="">
+This is a pretty background
+&lt;img src="https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;dpr=2&amp;amp;h=650&amp;amp;w=940" alt="">&lt;/p></description></item></channel></rss>
